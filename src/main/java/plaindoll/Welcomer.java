@@ -14,6 +14,6 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String sayHunter(){
-		return "I was hunter three years ago, but you don't know that history"
+		return "I was hunter three years ago, but you don't know that history";
 	}
 }
